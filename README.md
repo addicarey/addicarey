@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⭐ addison ⭐
-- python, solidity, web 👩🏽‍💻
+- python, solidity, web 👩🏻‍💻
 - stem, cs, coding, crypto 💻🔬
 - student ✌🏻
 - currently working on GANs + AI 🔍
