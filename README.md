@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⭐ addison ⭐
+- python, solidity, web 👩🏽‍💻
+- stem, cs, coding, crypto 💻
+- student ✌🏻
