@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⭐ addison ⭐
-- python, solidity, web 👩🏻‍💻
+- python, solidity, html/js/css 👩🏻‍💻
 - stem, cs, coding, crypto 💻🔬
-- student ✌🏻
-- currently working on GANs + AI 🔍
+- student 📚✌🏻
+- currently working on project for BTYSTE '24 (GANs + AI) 🔍
 
 
 
