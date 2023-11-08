@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ⭐ addison ⭐
 - python, solidity, html/js/css 👩🏻‍💻
 - stem, cs, coding, crypto 💻🔬
-- student 📚✌🏻
-- currently working on project for BTYSTE '24 (GANs + AI) 🔍
+- student 📚🤟🏻
+- working on project for BTYSTE 2024 (GANs + AI) 🔍⌨️
 
 
 
