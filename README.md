@@ -12,7 +12,8 @@ awards 🏆✨
 - Best Overall Project SciFest@College TU Tallaght 2024 ⭐
 - Maths in Science Special Award SciFest@College TU Tallaght 2024 🏆
 - 1st Junior Technology SciFest@College TU Tallaght 2024 🥇
-
+- Scifest Achievement in STEM Award SciFest National Final 2024 ⭐
+- Scifest Junior Technologist of the Future Award SciFest National Final 2024🎖️
   
 
 
