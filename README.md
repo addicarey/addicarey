@@ -3,6 +3,7 @@
 - python, solidity, html/js/css 👩🏻‍💻
 - stem, cs, coding, crypto/web3 💻🔬
 - student 📚
+- 11 🏆
 
 awards 🏆✨
 - Highly Commended BTYSTE 2023 🎉
