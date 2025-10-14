@@ -21,6 +21,8 @@ awards 🏆✨
 - Competed at the BTYSTE 2025
 - 1st Intermediate Technology SciFest@College TU Dublin Tallaght 2025 🥇
 - Best Overall Project SciFest@College TU Dublin Tallaght 2025 🏆
+- Irish Representative and Gold Medallist in Senior Computer Science category at Eskom Expo ISF 2025 🥇
+
 
 Competing in the SciFest National Final 2025!
 
