@@ -24,7 +24,7 @@ awards 🏆✨
 - Irish representative and Gold Medallist in Senior Computer Science category at Eskom Expo ISF 2025 🥇🇮🇪🇿🇦
 
 
-Competing in the SciFest National Final 2025!
+Competing in the SciFest National Final 2025, and the Stripe YSTE 2026!
 
 
 
