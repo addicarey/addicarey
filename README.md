@@ -3,7 +3,7 @@
 - python, solidity, html/js/css 👩🏻‍💻
 - stem, cs, coding, crypto/web3 💻🔬
 - student 📚
-- 12 🏆
+- 16 🏆
 
 awards 🏆✨
 - Highly Commended BTYSTE 2023 🎉
@@ -22,9 +22,14 @@ awards 🏆✨
 - 1st Intermediate Technology SciFest@College TU Dublin Tallaght 2025 🥇
 - Best Overall Project SciFest@College TU Dublin Tallaght 2025 🏆
 - Irish representative and Gold Medallist in Senior Computer Science category at Eskom Expo ISF 2025 🥇🇮🇪🇿🇦
+- SciFest Achievement in STEM award SciFest National Final 2025 ⭐
+- Regeneron ISEF Award SciFest National Final 2025 🏆
+
+- 1st Place Intermediate Individual Technology Stripe YSTE 2026 🥇
+- Analog Devices Gold Partner Award Stripe YSTE 2026 🏆
 
 
-Competing in the SciFest National Final 2025, and the Stripe YSTE 2026!
+🔜 Competing at the Regeneron ISEF in Phoenix, Arizona 2026 🇮🇪✈️🇺🇸
 
 
 
