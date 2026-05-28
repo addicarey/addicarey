@@ -1,9 +1,9 @@
 
 ⭐ addison ⭐
 - python, solidity, html/js/css 👩🏻‍💻
-- stem, cs, coding, crypto/web3 💻🔬
-- student 📚
-- 16 🏆
+- stem, coding, crypto, web3 💻🔬
+- 2x international 🇮🇪 rep
+- 18x 🏆
 
 awards 🏆✨
 - Highly Commended BTYSTE 2023 🎉
@@ -27,9 +27,10 @@ awards 🏆✨
 
 - 1st Place Intermediate Individual Technology Stripe YSTE 2026 🥇
 - Analog Devices Gold Partner Award Stripe YSTE 2026 🏆
+- Irish rep, 4th Place Software Design Category Regeneron ISEF 2026 🏅
+- Mawhiba Foundation Special Award Regeneron ISEF 2026 ⭐ (includes scholarship)
 
 
-🔜 Competing at the Regeneron ISEF in Phoenix, Arizona 2026 🇮🇪✈️🇺🇸
 
 
 
