@@ -1,5 +1,4 @@
 
-⭐ addison ⭐
 - python, solidity, html/js/css 👩🏻‍💻
 - stem, coding, crypto, web3 💻🔬
 - 2x international 🇮🇪 rep
